@@ -1,0 +1,1 @@
+// Full content.js code (as previously provided)
